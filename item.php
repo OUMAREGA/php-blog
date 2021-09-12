@@ -124,7 +124,7 @@ if(isset($_POST['article']))
                     <div class="card" style="width: 100%;">
                         <div class="card-body">
                             <h5 class="card-title">
-                                Ajouter une article
+                                Ajouter un article
                             </h5>
                             <form method="POST">
                                 <input type="text" name="title" placeholder="nom" />
